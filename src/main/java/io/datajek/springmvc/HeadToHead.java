@@ -1,7 +1,5 @@
 package io.datajek.springmvc;
-
 import io.datajek.springmvc.validation.Head2HeadConstraintValidator;
-
 import javax.validation.Constraint;
 import javax.validation.Payload;
 import java.lang.annotation.ElementType;

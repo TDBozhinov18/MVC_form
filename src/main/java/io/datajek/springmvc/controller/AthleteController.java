@@ -1,5 +1,4 @@
 package io.datajek.springmvc.controller;
-
 import io.datajek.springmvc.model.Athlete;
 import org.springframework.beans.propertyeditors.StringTrimmerEditor;
 import org.springframework.stereotype.Controller;
